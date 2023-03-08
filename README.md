@@ -13,4 +13,6 @@
 
 **Thats it now run your bot and enjoy - Be sure to credit me :D** 
 
+***Join my discord server too https://discord.gg/mjY3hSYn4P***
+
 ## Made by Technologypower#3174 ##
