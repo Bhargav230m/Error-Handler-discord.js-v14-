@@ -4,9 +4,11 @@
 
 `1.)` *Add `client.errors = new Collection()` your main file and define Collection from discord.js*
 
-`2.)` *Download and paste all the files in your bot folder, If your structure is different then customise the error handler to your needs*
+`2.)` *Add a channel id to send the crash messages at Handlers/ErrorHandler.js*
 
-`3.)` *Import it like `const { LoadErrorHandler } = require("./Handlers/ErrorHandler")` in your index.js and after loggining in your bot do the LoadErrorHandler([client])*
+`3.)` *Download and paste all the files in your bot folder, If your structure is different then customise the error handler to your needs*
+
+`4.)` *Import it like `const { LoadErrorHandler } = require("./Handlers/ErrorHandler")` in your index.js and after loggining in your bot do the LoadErrorHandler([client])*
 
 
 **Thats it now run your bot and enjoy - Be sure to credit me :D** 
