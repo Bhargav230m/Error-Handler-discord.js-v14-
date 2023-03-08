@@ -10,7 +10,7 @@ async function LoadErrorHandler(client) {
   if (!Files) {
     throw new Error("[FOLDER_NOT_FOUND]".red + " Error_Events was not found");
   }
-
+  console.log("Go ahead and join my discord server https://discord.gg/mjY3hSYn4P")
   Files.forEach(async (files) => {
     const error = require(files);
     const ChannelID = "Anti Crash Channel ID"
